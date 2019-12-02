@@ -1,12 +1,17 @@
 Instituição: Centro Universitário de Patos de Minas.
+
 Curso: Sistemas de Informação. 6° Período Noturno.
+
 Disciplina: Análise e Desenvolvimento de Sistemas.
+
 Professor: Felipe Guelber Melo.
+
 Aluna: Rafaela Maria de Oliveira.
 
 # Trabalho de Análise
 
 Foi criado um projeto baseado no cenário de lançamentos, atualizações e notificações de notas de um aluno.
+
 Os Patterns utilizados foram:
 
 Observer que será responsável por manter um monitoramento constante na nota do aluno alertando sempre que existir alguma modificação, além da capacidade de informar qual é o novo valor. A grande vantagem desse pattern nesse cenário é garantir que os dados estejam sempre atualizados.
