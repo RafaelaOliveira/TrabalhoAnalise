@@ -1,3 +1,9 @@
+Instituição: Centro Universitário de Patos de Minas.
+Curso: Sistemas de Informação. 6° Período Noturno.
+Disciplina: Análise e Desenvolvimento de Sistemas.
+Professor: Felipe Guelber Melo.
+Aluna: Rafaela Maria de Oliveira.
+
 # Trabalho de Análise
 
 Foi criado um projeto baseado no cenário de lançamentos, atualizações e notificações de notas de um aluno.
